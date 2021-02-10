@@ -3,6 +3,9 @@
 # Lotto number generator for 
 # the norwegian lottery system
 #
+# Created by: Jan Brekke
+# Website: https://www.digitalbrekke.com
+#
 #################################
 
 import time
