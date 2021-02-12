@@ -51,7 +51,7 @@ while True :
             integer = []
             
 
-            for number in range(0,7):
+            for number in range(0,8):
                 if number not in integer:
                     integer.append(random.randint(1,34))
             return integer
